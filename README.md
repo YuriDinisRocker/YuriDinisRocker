@@ -9,7 +9,7 @@
     <p>-gosto de jogar🎮
     <p>-gosto de ver animes💮
     <p>-gosto de tecnologia💻
-    <p>-gosto de passar tempo em família❤
+    <p>-gosto de passar tempo com a família e amigos❤
   </div>
   
   <div align="center">
