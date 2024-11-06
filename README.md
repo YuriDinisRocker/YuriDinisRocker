@@ -1,6 +1,5 @@
   <div>
-    <h1 align="center">Sou o Yuri Dinis Rocker, e estou iniciando uma carreira como</h1>
-    <h1 align="center"><b>📱programador📱<b></h1>
+    <h1 align="center">Desenvolvedor Back-end</h1>
   </div>
     
  <div>   
